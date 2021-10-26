@@ -1,0 +1,7 @@
+For SSL Git Assignment, we need to include navigation menu and make a multi page site about our project over
+view which contains : 
+Links to different pages, 
+
+project components, 
+technologies involved, 
+
